@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayon-islam-23&label=Profile%20views&color=0e75b6&style=flat" alt="sayon-islam-23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayon-islam-23" alt="sayon-islam-23" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sayon islam" target="blank"><img src="https://img.shields.io/twitter/follow/sayon islam?logo=twitter&style=for-the-badge" alt="sayon islam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/petrolheadk" target="blank"><img src="https://img.shields.io/twitter/follow/petrolheadk?logo=twitter&style=for-the-badge" alt="petrolheadk" /></a> </p>
 
 - Hi, I'm an engineering student of **Information Technology (IT) branch**
 
@@ -36,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sayon islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayon islam" height="30" width="40" /></a>
+<a href="https://twitter.com/petrolheadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petrolheadk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayon islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayon islam" height="30" width="40" /></a>
 <a href="https://kaggle.com/sayon islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayon islam" height="30" width="40" /></a>
 <a href="https://fb.com/sayon islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayon islam" height="30" width="40" /></a>
@@ -52,4 +50,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayon-islam-23&show_icons=true&locale=en" alt="sayon-islam-23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayon-islam-23&" alt="sayon-islam-23" /></p>
-
