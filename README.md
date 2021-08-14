@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/petrolheadk" target="blank"><img src="https://img.shields.io/twitter/follow/petrolheadk?logo=twitter&style=for-the-badge" alt="petrolheadk" /></a> </p>
 
-- Hi, I'm an engineering student of **Information Technology (IT) branch**
+- Hello World, I'm an engineering student of **Information Technology (IT) branch**
 
 - 🌱 I’m currently learning **React JS,**
 
