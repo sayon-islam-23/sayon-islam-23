@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="coding" width="400" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif">
+<img align="center" alt="Programmer || Developer" width="800" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif">
 <h1 align="center">Hi 👋, I'm Sayon Islam</h1>
 <h3 align="center">A Frontend Based Full Stack Web Developer 🤓</h3>
 
