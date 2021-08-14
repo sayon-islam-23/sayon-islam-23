@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **sayon-islam-23/sayon-islam-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Programmer || Developer" width="500" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" >
+<img alt="Programmer || Developer" width="500" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" style="margin-left:50px;">
 <h1 align="center">Hi 👋, I'm Sayon Islam</h1>
 <h3 align="center">A Frontend Based Full Stack Web Developer 🤓</h3>
 
