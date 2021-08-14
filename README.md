@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="Programmer || Developer" width="400" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
-<h1 align="center">Hi 👋, I'm Sayon Islam</h1>
+<h1 align="center">Hello World! 👋, I'm Sayon Islam</h1>
 <h3 align="center">A Frontend Based Full Stack Web Developer 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayon-islam-23&label=Profile%20views&color=0e75b6&style=flat" alt="sayon-islam-23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/petrolheadk" target="blank"><img src="https://img.shields.io/twitter/follow/petrolheadk?logo=twitter&style=for-the-badge" alt="petrolheadk" /></a> </p>
 
-- Hello World, I'm an engineering student of **Information Technology (IT) branch**
+- Hi, I'm an engineering student of **Information Technology (IT) branch**
 
 - 🌱 I’m currently learning **React JS,**
 
