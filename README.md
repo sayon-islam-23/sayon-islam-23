@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - Hi, I'm an engineering student of **Information Technology (IT) branch**
 
-- 🌱 I’m currently learning **React JS,**
+- 🌱 I’m currently learning **React Native & React JS,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sayon-islam-23](https://github.com/sayon-islam-23)
 
