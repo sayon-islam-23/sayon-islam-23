@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 Mail me 📩 👉🏻 **sayonislam.2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img alt="Programmer || Developer" width="350" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
+<img alt="Programmer || Developer" width="350" src="https://in.pinterest.com/pin/728175833495235194/" align="right">
 <p align="left">
 <a href="https://twitter.com/petrolheadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petrolheadk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayon islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayon islam" height="30" width="40" /></a>
