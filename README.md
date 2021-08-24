@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img alt="Programmer || Developer" width="300" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
+<img alt="Programmer || Developer" width="350" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
 
