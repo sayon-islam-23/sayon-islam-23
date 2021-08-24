@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sayon-islam-23&" alt="sayon-islam-23" /></p>
 <br>
 <br>
-<div style="margin-top:2rem;">
-<img alt="Programmer || Developer" width="400" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
-</div>
+
+<img alt="Programmer || Developer" width="300" src="https://janinesjourneys.com/wp-content/uploads/2019/12/typing-google-computer-gif-giphy.gif" align="right">
+
