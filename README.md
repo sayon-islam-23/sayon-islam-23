@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayon-islam-23&show_icons=true&locale=en&layout=compact" alt="sayon-islam-23" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sayon-islam-23&show_icons=true&locale=en" alt="sayon-islam-23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sayon-islam-23&show_icons=true&locale=en" alt="sayon-islam-23" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sayon-islam-23&" alt="sayon-islam-23" /></p>
