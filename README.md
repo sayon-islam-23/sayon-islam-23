@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="Programmer || Developer" width="350" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="right">
+<img alt="Programmer || Developer" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" align="right">
 <h1 align="center">Hello World! 👋, I'm Sayon Islam</h1>
 <h3 align="center">A Frontend Based Full Stack Web Developer 🤓</h3>
 
